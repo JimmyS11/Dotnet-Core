@@ -17,4 +17,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hospital.Dominio\Hospital.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>
