@@ -1,0 +1,16 @@
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.exe
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.deps.json
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.runtimeconfig.json
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.runtimeconfig.dev.json
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\ref\Hospital.Consola.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Consola.pdb
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.csproj.AssemblyReference.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.AssemblyInfoInputs.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.AssemblyInfo.cs
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\ref\Hospital.Consola.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.pdb
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.genruntimeconfig.cache

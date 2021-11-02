@@ -1,0 +1,5 @@
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.csproj.AssemblyReference.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.AssemblyInfo.cs
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.csproj.CoreCompileInputs.cache

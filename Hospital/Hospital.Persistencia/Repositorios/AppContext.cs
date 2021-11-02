@@ -1,10 +1,15 @@
-using Microsoft.EntityFramework.Core;
+using Microsoft.EntityFrameworkCore;
+using Hospital.Dominio.Entidades;
 
-namespace Hospital.Persistencia
+namespace Hospital.Persistencia.Repositorios
 {
-    public class AppContext
+    public class AppContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionBuilder optionsBuilder)
+        public DbSet<Persona> Personas {get; set;}
+        public DbSet<Paciente> Pacientes {get; set;}
+        public DbSet<Medico> Medicos {get; set;}
+        public DbSet<SignoVital> SignosVitales {get; set;}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.Isconfigured)
             {

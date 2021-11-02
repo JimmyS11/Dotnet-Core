@@ -1,0 +1,12 @@
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\bin\Debug\net5.0\Hospital.Dominio.deps.json
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\bin\Debug\net5.0\Hospital.Dominio.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\bin\Debug\net5.0\ref\Hospital.Dominio.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\bin\Debug\net5.0\Hospital.Dominio.pdb
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.csproj.AssemblyReference.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.AssemblyInfoInputs.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.AssemblyInfo.cs
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\ref\Hospital.Dominio.dll
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Dominio\obj\Debug\net5.0\Hospital.Dominio.pdb
