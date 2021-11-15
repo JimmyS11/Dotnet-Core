@@ -15,3 +15,4 @@ C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\ref\Hospital.Persistencia.dll
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.pdb
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.genruntimeconfig.cache
+C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Persistencia\obj\Debug\net5.0\Hospital.Persistencia.csproj.CopyComplete
