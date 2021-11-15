@@ -10,6 +10,17 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+Hospital.Frontend/bin
+Hospital.Frontend/obj
+Hospital.Persistencia/bin
+Hospital.Persistencia/obj
+Hospital.Dominio/bin
+Hospital.Dominio/obj
+Hospital.Consola/bin
+Hospital.Consola/obj
+*.cache
+*.dll
+*.pdb
 *.rsuser
 *.suo
 *.user
