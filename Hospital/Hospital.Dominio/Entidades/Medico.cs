@@ -1,4 +1,4 @@
-namespace Hospital.Dominio.Entidades
+namespace Hospital.Dominio
 {
     /// <summary> Class <c>Medico</c>
     /// Moldea un médico del equipo de apoyo

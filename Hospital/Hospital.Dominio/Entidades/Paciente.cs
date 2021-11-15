@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Hospital.Dominio.Entidades
+namespace Hospital.Dominio
 {
     public class Paciente: Persona
     {

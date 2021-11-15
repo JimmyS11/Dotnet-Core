@@ -1,4 +1,4 @@
-namespace Hospital.Dominio.Entidades
+namespace Hospital.Dominio
 {
     /// <summary>
     /// Lista de Signos Vitales

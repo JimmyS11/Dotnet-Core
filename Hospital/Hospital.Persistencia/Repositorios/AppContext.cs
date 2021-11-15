@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Hospital.Dominio.Entidades;
+using Hospital.Dominio;
 
-namespace Hospital.Persistencia.Repositorios
+namespace Hospital.Persistencia
 {
     public class AppContext : DbContext
     {
@@ -11,9 +11,9 @@ namespace Hospital.Persistencia.Repositorios
         public DbSet<SignoVital> SignosVitales {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.Isconfigured)
+            if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Initial Catalog=HospitalSenaDB; Data Source=LAPTOP-NE420FS2");
+                optionsBuilder.UseSqlServer("Initial Catalog=HospitalSenaDB; Data Source=LAPTOP-NE420FS2; Integrated Security=true");
             }
         }
     }
