@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Hospital.Persistencia
 {
-   /* public class RepositorioPaciente : IRepositorioPaciente
+    public class RepositorioPaciente : IRepositorioPaciente
     {
         private readonly AppContext _appContext = new AppContext();
         Paciente IRepositorioPaciente.AddPaciente(Paciente paciente)
@@ -19,5 +19,5 @@ namespace Hospital.Persistencia
         {
             return _appContext.Pacientes;
         }
-    }*/
+    }
 }

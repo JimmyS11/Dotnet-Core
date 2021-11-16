@@ -66,4 +66,3 @@ C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Persistencia.dll
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Dominio.pdb
 C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\bin\Debug\net5.0\Hospital.Persistencia.pdb
-C:\Users\jimmy\OneDrive\Documentos\SENA\Profe Luna\Dotnet Core\Hospital\Hospital.Consola\obj\Debug\net5.0\Hospital.Consola.csproj.CopyComplete

@@ -8,6 +8,7 @@ namespace Hospital.Persistencia
         public DbSet<Persona> Personas {get; set;}
         public DbSet<Paciente> Pacientes {get; set;}
         public DbSet<Medico> Medicos {get; set;}
+        public DbSet<Enfermera> Enfermeras {get; set;}
         public DbSet<SignoVital> SignosVitales {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

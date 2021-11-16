@@ -4,9 +4,9 @@ using Hospital.Dominio;
 
 namespace Hospital.Persistencia
 {
-    /*public interface IRepositorioPaciente
+    public interface IRepositorioPaciente
     {
         IEnumerable<Paciente> GetAllPacientes();
         Paciente AddPaciente(Paciente paciente);
-    }*/
+    }
 }
